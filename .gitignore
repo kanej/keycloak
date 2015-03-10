@@ -1,0 +1,6 @@
+*.jar
+realm.json
+*.jks
+transform.xml
+standalone.xml
+saxon.sh
